@@ -1,0 +1,73 @@
+*{
+    margin: 0 auto;
+    padding: 0%;
+}
+main{
+    width: 1200px;
+    height: 700px;
+    background-color: #efefef;
+}
+header{
+    width: 1200px;
+    height: 100px;
+    background-color: #d9d9d9;
+    display: flex;
+}
+#logo{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+}
+#menu{
+   width: 900px;
+   height: 100px;
+   background-color: darkslategray;
+}
+#imgslide{
+    width: 1200px;
+    height: 300px;
+    background-color: aqua;
+}
+#content{
+    width: 1200px;
+    height: 200px;
+    background-color: chartreuse;
+    display: flex;
+
+}
+#notice{
+    width: 400px;
+    height: 200px;
+    background-color: brown;
+}
+#gall{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(255, 251, 2);
+}
+#banner{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(144, 216, 156);
+}
+footer{
+    width: 1200px;
+    height: 100px;
+    background-color: dodgerblue;
+    display: flex;
+}
+#flogo{
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+}
+#COPYRIGHT{
+    width: 700px;
+    height: 100px;
+    background-color: cadetblue;
+}
+#패밀리사이트{
+    width: 300px;
+    height: 100px;
+    background-color: darkgrey;
+}
